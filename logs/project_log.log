@@ -1,18 +1,1 @@
-2025-09-06 15:04:17 | INFO | Processed JSON message: {'timestamp': '2025-09-06T22:04:17.645000', 'temperature': 119.2}
-2025-09-06 15:04:17 | INFO | Rolling window size: 10
-2025-09-06 15:04:17 | INFO | Max stall temperature range: 0.2 F
-2025-09-06 15:04:22 | INFO | Processed JSON message: {'timestamp': '2025-09-06T22:04:22.646650', 'temperature': 119.6}
-2025-09-06 15:04:22 | INFO | Rolling window size: 10
-2025-09-06 15:04:22 | INFO | Max stall temperature range: 0.2 F
-2025-09-06 15:04:27 | INFO | Processed JSON message: {'timestamp': '2025-09-06T22:04:27.648055', 'temperature': 120.0}
-2025-09-06 15:04:27 | INFO | Rolling window size: 10
-2025-09-06 15:04:27 | INFO | Max stall temperature range: 0.2 F
-2025-09-06 15:04:32 | INFO | Processed JSON message: {'timestamp': '2025-09-06T22:04:32.650814', 'temperature': 120.4}
-2025-09-06 15:04:32 | INFO | Rolling window size: 10
-2025-09-06 15:04:32 | INFO | Max stall temperature range: 0.2 F
-2025-09-06 15:04:37 | INFO | Processed JSON message: {'timestamp': '2025-09-06T22:04:37.652067', 'temperature': 120.8}
-2025-09-06 15:04:37 | INFO | Rolling window size: 10
-2025-09-06 15:04:37 | INFO | Max stall temperature range: 0.2 F
-2025-09-06 15:04:42 | INFO | Processed JSON message: {'timestamp': '2025-09-06T22:04:42.653105', 'temperature': 121.2}
-2025-09-06 15:04:42 | INFO | Rolling window size: 10
-2025-09-06 15:04:42 | INFO | Max stall temperature range: 0.2 F
+2025-09-06 15:11:35 | INFO | Sent message to topic 'buzzline_json': {'message': 'I love Python!', 'author': 'Bob'}
