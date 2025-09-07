@@ -1,3 +1,36 @@
+# New JSON Kafka Producer and Consumer
+
+## json_producer_ragini.py
+This unique Kafka producer sends easy-to-understand JSON messages to the topic `ragini_json_topic`. Each message contains a `message` and an `author`, making it simple to test and demonstrate Kafka streaming with structured data.
+
+**Example messages sent:**
+```
+{
+   "message": "Data engineering is my passion.",
+   "author": "Eve"
+}
+{
+   "message": "Distributed systems are fascinating.",
+   "author": "Alice"
+}
+```
+
+## json_consumer_ragini.py
+This associated Kafka consumer listens to the same topic (`ragini_json_topic`) and prints each received JSON message. It is designed for clarity and ease of use, making it ideal for learning and demonstration purposes.
+
+**How to run:**
+1. Start Kafka and Zookeeper services.
+2. Activate your Python virtual environment and install dependencies.
+3. Run the producer:
+   ```bash
+   python -m producers.json_producer_ragini
+   ```
+4. Run the consumer:
+   ```bash
+   python -m consumers.json_consumer_ragini
+   ```
+
+These scripts provide a simple, hands-on introduction to Kafka streaming with JSON data in Python.
 # buzzline-03-case
 
 Streaming data does not have to be simple text.

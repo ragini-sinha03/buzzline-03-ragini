@@ -71,3 +71,258 @@
 2025-09-06 17:25:39 | INFO | Rolling window size: 10
 2025-09-06 17:25:39 | INFO | Max stall temperature range: 0.2 F
 2025-09-06 17:25:39 | INFO | STALL DETECTED at 2025-09-07T00:25:39.660467: Temp stable at 142.0°F over last 10 readings.
+2025-09-06 17:25:44 | INFO | Processed JSON message: {'timestamp': '2025-09-07T00:25:44.662503', 'temperature': 142.2}
+2025-09-06 17:25:44 | INFO | Rolling window size: 10
+2025-09-06 17:25:44 | INFO | Max stall temperature range: 0.2 F
+2025-09-06 17:25:44 | INFO | STALL DETECTED at 2025-09-07T00:25:44.662503: Temp stable at 142.2°F over last 10 readings.
+2025-09-06 17:25:49 | INFO | Processed JSON message: {'timestamp': '2025-09-07T00:25:49.664531', 'temperature': 142.0}
+2025-09-06 17:25:49 | INFO | Rolling window size: 10
+2025-09-06 17:25:49 | INFO | Max stall temperature range: 0.2 F
+2025-09-06 17:25:49 | INFO | STALL DETECTED at 2025-09-07T00:25:49.664531: Temp stable at 142.0°F over last 10 readings.
+2025-09-06 17:25:54 | INFO | Processed JSON message: {'timestamp': '2025-09-07T00:25:54.667118', 'temperature': 142.2}
+2025-09-06 17:25:54 | INFO | Rolling window size: 10
+2025-09-06 17:25:54 | INFO | Max stall temperature range: 0.2 F
+2025-09-06 17:25:54 | INFO | STALL DETECTED at 2025-09-07T00:25:54.667118: Temp stable at 142.2°F over last 10 readings.
+2025-09-06 17:25:59 | INFO | Processed JSON message: {'timestamp': '2025-09-07T00:25:59.670663', 'temperature': 142.0}
+2025-09-06 17:25:59 | INFO | Rolling window size: 10
+2025-09-06 17:25:59 | INFO | Max stall temperature range: 0.2 F
+2025-09-06 17:25:59 | INFO | STALL DETECTED at 2025-09-07T00:25:59.670663: Temp stable at 142.0°F over last 10 readings.
+2025-09-06 17:26:04 | INFO | Processed JSON message: {'timestamp': '2025-09-07T00:26:04.674010', 'temperature': 142.2}
+2025-09-06 17:26:04 | INFO | Rolling window size: 10
+2025-09-06 17:26:04 | INFO | Max stall temperature range: 0.2 F
+2025-09-06 17:26:04 | INFO | STALL DETECTED at 2025-09-07T00:26:04.674010: Temp stable at 142.2°F over last 10 readings.
+2025-09-06 17:26:11 | INFO | Processed JSON message: {'timestamp': '2025-09-07T00:26:11.932371', 'temperature': 142.0}
+2025-09-06 17:26:11 | INFO | Rolling window size: 10
+2025-09-06 17:26:11 | INFO | Max stall temperature range: 0.2 F
+2025-09-06 17:26:11 | INFO | STALL DETECTED at 2025-09-07T00:26:11.932371: Temp stable at 142.0°F over last 10 readings.
+2025-09-06 17:26:16 | INFO | Processed JSON message: {'timestamp': '2025-09-07T00:26:16.934294', 'temperature': 142.2}
+2025-09-06 17:26:16 | INFO | Rolling window size: 10
+2025-09-06 17:26:16 | INFO | Max stall temperature range: 0.2 F
+2025-09-06 17:26:16 | INFO | STALL DETECTED at 2025-09-07T00:26:16.934294: Temp stable at 142.2°F over last 10 readings.
+2025-09-06 17:26:21 | INFO | Processed JSON message: {'timestamp': '2025-09-07T00:26:21.935427', 'temperature': 142.0}
+2025-09-06 17:26:21 | INFO | Rolling window size: 10
+2025-09-06 17:26:21 | INFO | Max stall temperature range: 0.2 F
+2025-09-06 17:26:21 | INFO | STALL DETECTED at 2025-09-07T00:26:21.935427: Temp stable at 142.0°F over last 10 readings.
+2025-09-06 17:26:26 | INFO | Processed JSON message: {'timestamp': '2025-09-07T00:26:26.938552', 'temperature': 142.2}
+2025-09-06 17:26:26 | INFO | Rolling window size: 10
+2025-09-06 17:26:26 | INFO | Max stall temperature range: 0.2 F
+2025-09-06 17:26:26 | INFO | STALL DETECTED at 2025-09-07T00:26:26.938552: Temp stable at 142.2°F over last 10 readings.
+2025-09-06 17:26:31 | INFO | Processed JSON message: {'timestamp': '2025-09-07T00:26:31.942640', 'temperature': 142.0}
+2025-09-06 17:26:31 | INFO | Rolling window size: 10
+2025-09-06 17:26:31 | INFO | Max stall temperature range: 0.2 F
+2025-09-06 17:26:31 | INFO | STALL DETECTED at 2025-09-07T00:26:31.942640: Temp stable at 142.0°F over last 10 readings.
+2025-09-06 17:26:36 | INFO | Processed JSON message: {'timestamp': '2025-09-07T00:26:36.945240', 'temperature': 142.2}
+2025-09-06 17:26:36 | INFO | Rolling window size: 10
+2025-09-06 17:26:36 | INFO | Max stall temperature range: 0.2 F
+2025-09-06 17:26:36 | INFO | STALL DETECTED at 2025-09-07T00:26:36.945240: Temp stable at 142.2°F over last 10 readings.
+2025-09-06 17:26:44 | INFO | Processed JSON message: {'timestamp': '2025-09-07T00:26:44.211990', 'temperature': 142.0}
+2025-09-06 17:26:44 | INFO | Rolling window size: 10
+2025-09-06 17:26:44 | INFO | Max stall temperature range: 0.2 F
+2025-09-06 17:26:44 | INFO | STALL DETECTED at 2025-09-07T00:26:44.211990: Temp stable at 142.0°F over last 10 readings.
+2025-09-06 17:26:49 | INFO | Processed JSON message: {'timestamp': '2025-09-07T00:26:49.214219', 'temperature': 142.2}
+2025-09-06 17:26:49 | INFO | Rolling window size: 10
+2025-09-06 17:26:49 | INFO | Max stall temperature range: 0.2 F
+2025-09-06 17:26:49 | INFO | STALL DETECTED at 2025-09-07T00:26:49.214219: Temp stable at 142.2°F over last 10 readings.
+2025-09-06 17:26:54 | INFO | Processed JSON message: {'timestamp': '2025-09-07T00:26:54.216908', 'temperature': 142.0}
+2025-09-06 17:26:54 | INFO | Rolling window size: 10
+2025-09-06 17:26:54 | INFO | Max stall temperature range: 0.2 F
+2025-09-06 17:26:54 | INFO | STALL DETECTED at 2025-09-07T00:26:54.216908: Temp stable at 142.0°F over last 10 readings.
+2025-09-06 17:26:59 | INFO | Processed JSON message: {'timestamp': '2025-09-07T00:26:59.219244', 'temperature': 142.2}
+2025-09-06 17:26:59 | INFO | Rolling window size: 10
+2025-09-06 17:26:59 | INFO | Max stall temperature range: 0.2 F
+2025-09-06 17:26:59 | INFO | STALL DETECTED at 2025-09-07T00:26:59.219244: Temp stable at 142.2°F over last 10 readings.
+2025-09-06 17:27:04 | INFO | Processed JSON message: {'timestamp': '2025-09-07T00:27:04.220596', 'temperature': 142.0}
+2025-09-06 17:27:04 | INFO | Rolling window size: 10
+2025-09-06 17:27:04 | INFO | Max stall temperature range: 0.2 F
+2025-09-06 17:27:04 | INFO | STALL DETECTED at 2025-09-07T00:27:04.220596: Temp stable at 142.0°F over last 10 readings.
+2025-09-06 17:27:09 | INFO | Processed JSON message: {'timestamp': '2025-09-07T00:27:09.222838', 'temperature': 142.2}
+2025-09-06 17:27:09 | INFO | Rolling window size: 10
+2025-09-06 17:27:09 | INFO | Max stall temperature range: 0.2 F
+2025-09-06 17:27:09 | INFO | STALL DETECTED at 2025-09-07T00:27:09.222838: Temp stable at 142.2°F over last 10 readings.
+2025-09-06 17:27:16 | INFO | Processed JSON message: {'timestamp': '2025-09-07T00:27:16.485008', 'temperature': 142.0}
+2025-09-06 17:27:16 | INFO | Rolling window size: 10
+2025-09-06 17:27:16 | INFO | Max stall temperature range: 0.2 F
+2025-09-06 17:27:16 | INFO | STALL DETECTED at 2025-09-07T00:27:16.485008: Temp stable at 142.0°F over last 10 readings.
+2025-09-06 17:27:21 | INFO | Processed JSON message: {'timestamp': '2025-09-07T00:27:21.487289', 'temperature': 142.2}
+2025-09-06 17:27:21 | INFO | Rolling window size: 10
+2025-09-06 17:27:21 | INFO | Max stall temperature range: 0.2 F
+2025-09-06 17:27:21 | INFO | STALL DETECTED at 2025-09-07T00:27:21.487289: Temp stable at 142.2°F over last 10 readings.
+2025-09-06 17:27:26 | INFO | Processed JSON message: {'timestamp': '2025-09-07T00:27:26.493195', 'temperature': 142.0}
+2025-09-06 17:27:26 | INFO | Rolling window size: 10
+2025-09-06 17:27:26 | INFO | Max stall temperature range: 0.2 F
+2025-09-06 17:27:26 | INFO | STALL DETECTED at 2025-09-07T00:27:26.493195: Temp stable at 142.0°F over last 10 readings.
+2025-09-06 17:27:31 | INFO | Processed JSON message: {'timestamp': '2025-09-07T00:27:31.494650', 'temperature': 142.2}
+2025-09-06 17:27:31 | INFO | Rolling window size: 10
+2025-09-06 17:27:31 | INFO | Max stall temperature range: 0.2 F
+2025-09-06 17:27:31 | INFO | STALL DETECTED at 2025-09-07T00:27:31.494650: Temp stable at 142.2°F over last 10 readings.
+2025-09-06 17:27:36 | INFO | Processed JSON message: {'timestamp': '2025-09-07T00:27:36.496732', 'temperature': 142.0}
+2025-09-06 17:27:36 | INFO | Rolling window size: 10
+2025-09-06 17:27:36 | INFO | Max stall temperature range: 0.2 F
+2025-09-06 17:27:36 | INFO | STALL DETECTED at 2025-09-07T00:27:36.496732: Temp stable at 142.0°F over last 10 readings.
+2025-09-06 17:27:41 | INFO | Processed JSON message: {'timestamp': '2025-09-07T00:27:41.497931', 'temperature': 142.2}
+2025-09-06 17:27:41 | INFO | Rolling window size: 10
+2025-09-06 17:27:41 | INFO | Max stall temperature range: 0.2 F
+2025-09-06 17:27:41 | INFO | STALL DETECTED at 2025-09-07T00:27:41.497931: Temp stable at 142.2°F over last 10 readings.
+2025-09-06 17:27:46 | INFO | Processed JSON message: {'timestamp': '2025-09-07T00:27:46.499710', 'temperature': 142.0}
+2025-09-06 17:27:46 | INFO | Rolling window size: 10
+2025-09-06 17:27:46 | INFO | Max stall temperature range: 0.2 F
+2025-09-06 17:27:46 | INFO | STALL DETECTED at 2025-09-07T00:27:46.499710: Temp stable at 142.0°F over last 10 readings.
+2025-09-06 17:27:53 | INFO | Processed JSON message: {'timestamp': '2025-09-07T00:27:53.787026', 'temperature': 142.2}
+2025-09-06 17:27:53 | INFO | Rolling window size: 10
+2025-09-06 17:27:53 | INFO | Max stall temperature range: 0.2 F
+2025-09-06 17:27:53 | INFO | STALL DETECTED at 2025-09-07T00:27:53.787026: Temp stable at 142.2°F over last 10 readings.
+2025-09-06 17:27:58 | INFO | Processed JSON message: {'timestamp': '2025-09-07T00:27:58.789445', 'temperature': 142.0}
+2025-09-06 17:27:58 | INFO | Rolling window size: 10
+2025-09-06 17:27:58 | INFO | Max stall temperature range: 0.2 F
+2025-09-06 17:27:58 | INFO | STALL DETECTED at 2025-09-07T00:27:58.789445: Temp stable at 142.0°F over last 10 readings.
+2025-09-06 17:28:03 | INFO | Processed JSON message: {'timestamp': '2025-09-07T00:28:03.791583', 'temperature': 142.2}
+2025-09-06 17:28:03 | INFO | Rolling window size: 10
+2025-09-06 17:28:03 | INFO | Max stall temperature range: 0.2 F
+2025-09-06 17:28:03 | INFO | STALL DETECTED at 2025-09-07T00:28:03.791583: Temp stable at 142.2°F over last 10 readings.
+2025-09-06 17:28:08 | INFO | Processed JSON message: {'timestamp': '2025-09-07T00:28:08.796377', 'temperature': 142.0}
+2025-09-06 17:28:08 | INFO | Rolling window size: 10
+2025-09-06 17:28:08 | INFO | Max stall temperature range: 0.2 F
+2025-09-06 17:28:08 | INFO | STALL DETECTED at 2025-09-07T00:28:08.796377: Temp stable at 142.0°F over last 10 readings.
+2025-09-06 17:28:13 | INFO | Processed JSON message: {'timestamp': '2025-09-07T00:28:13.798833', 'temperature': 142.2}
+2025-09-06 17:28:13 | INFO | Rolling window size: 10
+2025-09-06 17:28:13 | INFO | Max stall temperature range: 0.2 F
+2025-09-06 17:28:13 | INFO | STALL DETECTED at 2025-09-07T00:28:13.798833: Temp stable at 142.2°F over last 10 readings.
+2025-09-06 17:28:18 | INFO | Processed JSON message: {'timestamp': '2025-09-07T00:28:18.800911', 'temperature': 142.0}
+2025-09-06 17:28:18 | INFO | Rolling window size: 10
+2025-09-06 17:28:18 | INFO | Max stall temperature range: 0.2 F
+2025-09-06 17:28:18 | INFO | STALL DETECTED at 2025-09-07T00:28:18.800911: Temp stable at 142.0°F over last 10 readings.
+2025-09-06 17:28:26 | INFO | Processed JSON message: {'timestamp': '2025-09-07T00:28:26.057157', 'temperature': 142.2}
+2025-09-06 17:28:26 | INFO | Rolling window size: 10
+2025-09-06 17:28:26 | INFO | Max stall temperature range: 0.2 F
+2025-09-06 17:28:26 | INFO | STALL DETECTED at 2025-09-07T00:28:26.057157: Temp stable at 142.2°F over last 10 readings.
+2025-09-06 17:28:31 | INFO | Processed JSON message: {'timestamp': '2025-09-07T00:28:31.058605', 'temperature': 142.0}
+2025-09-06 17:28:31 | INFO | Rolling window size: 10
+2025-09-06 17:28:31 | INFO | Max stall temperature range: 0.2 F
+2025-09-06 17:28:31 | INFO | STALL DETECTED at 2025-09-07T00:28:31.058605: Temp stable at 142.0°F over last 10 readings.
+2025-09-06 17:28:36 | INFO | Processed JSON message: {'timestamp': '2025-09-07T00:28:36.060830', 'temperature': 142.2}
+2025-09-06 17:28:36 | INFO | Rolling window size: 10
+2025-09-06 17:28:36 | INFO | Max stall temperature range: 0.2 F
+2025-09-06 17:28:36 | INFO | STALL DETECTED at 2025-09-07T00:28:36.060830: Temp stable at 142.2°F over last 10 readings.
+2025-09-06 17:28:41 | INFO | Processed JSON message: {'timestamp': '2025-09-07T00:28:41.062877', 'temperature': 142.0}
+2025-09-06 17:28:41 | INFO | Rolling window size: 10
+2025-09-06 17:28:41 | INFO | Max stall temperature range: 0.2 F
+2025-09-06 17:28:41 | INFO | STALL DETECTED at 2025-09-07T00:28:41.062877: Temp stable at 142.0°F over last 10 readings.
+2025-09-06 17:28:46 | INFO | Processed JSON message: {'timestamp': '2025-09-07T00:28:46.063784', 'temperature': 142.2}
+2025-09-06 17:28:46 | INFO | Rolling window size: 10
+2025-09-06 17:28:46 | INFO | Max stall temperature range: 0.2 F
+2025-09-06 17:28:46 | INFO | STALL DETECTED at 2025-09-07T00:28:46.063784: Temp stable at 142.2°F over last 10 readings.
+2025-09-06 17:28:51 | INFO | Processed JSON message: {'timestamp': '2025-09-07T00:28:51.065313', 'temperature': 142.0}
+2025-09-06 17:28:51 | INFO | Rolling window size: 10
+2025-09-06 17:28:51 | INFO | Max stall temperature range: 0.2 F
+2025-09-06 17:28:51 | INFO | STALL DETECTED at 2025-09-07T00:28:51.065313: Temp stable at 142.0°F over last 10 readings.
+2025-09-06 17:28:56 | INFO | Processed JSON message: {'timestamp': '2025-09-07T00:28:56.069207', 'temperature': 142.2}
+2025-09-06 17:28:56 | INFO | Rolling window size: 10
+2025-09-06 17:28:56 | INFO | Max stall temperature range: 0.2 F
+2025-09-06 17:28:56 | INFO | STALL DETECTED at 2025-09-07T00:28:56.069207: Temp stable at 142.2°F over last 10 readings.
+2025-09-06 17:29:03 | INFO | Processed JSON message: {'timestamp': '2025-09-07T00:29:03.337523', 'temperature': 142.0}
+2025-09-06 17:29:03 | INFO | Rolling window size: 10
+2025-09-06 17:29:03 | INFO | Max stall temperature range: 0.2 F
+2025-09-06 17:29:03 | INFO | STALL DETECTED at 2025-09-07T00:29:03.337523: Temp stable at 142.0°F over last 10 readings.
+2025-09-06 17:29:08 | INFO | Processed JSON message: {'timestamp': '2025-09-07T00:29:08.339241', 'temperature': 142.2}
+2025-09-06 17:29:08 | INFO | Rolling window size: 10
+2025-09-06 17:29:08 | INFO | Max stall temperature range: 0.2 F
+2025-09-06 17:29:08 | INFO | STALL DETECTED at 2025-09-07T00:29:08.339241: Temp stable at 142.2°F over last 10 readings.
+2025-09-06 17:29:13 | INFO | Processed JSON message: {'timestamp': '2025-09-07T00:29:13.343000', 'temperature': 142.0}
+2025-09-06 17:29:13 | INFO | Rolling window size: 10
+2025-09-06 17:29:13 | INFO | Max stall temperature range: 0.2 F
+2025-09-06 17:29:13 | INFO | STALL DETECTED at 2025-09-07T00:29:13.343000: Temp stable at 142.0°F over last 10 readings.
+2025-09-06 17:29:18 | INFO | Processed JSON message: {'timestamp': '2025-09-07T00:29:18.345834', 'temperature': 142.2}
+2025-09-06 17:29:18 | INFO | Rolling window size: 10
+2025-09-06 17:29:18 | INFO | Max stall temperature range: 0.2 F
+2025-09-06 17:29:18 | INFO | STALL DETECTED at 2025-09-07T00:29:18.345834: Temp stable at 142.2°F over last 10 readings.
+2025-09-06 17:29:23 | INFO | Processed JSON message: {'timestamp': '2025-09-07T00:29:23.348577', 'temperature': 142.0}
+2025-09-06 17:29:23 | INFO | Rolling window size: 10
+2025-09-06 17:29:23 | INFO | Max stall temperature range: 0.2 F
+2025-09-06 17:29:23 | INFO | STALL DETECTED at 2025-09-07T00:29:23.348577: Temp stable at 142.0°F over last 10 readings.
+2025-09-06 17:29:28 | INFO | Processed JSON message: {'timestamp': '2025-09-07T00:29:28.350231', 'temperature': 142.2}
+2025-09-06 17:29:28 | INFO | Rolling window size: 10
+2025-09-06 17:29:28 | INFO | Max stall temperature range: 0.2 F
+2025-09-06 17:29:28 | INFO | STALL DETECTED at 2025-09-07T00:29:28.350231: Temp stable at 142.2°F over last 10 readings.
+2025-09-06 17:29:36 | INFO | Processed JSON message: {'timestamp': '2025-09-07T00:29:36.016770', 'temperature': 142.0}
+2025-09-06 17:29:36 | INFO | Rolling window size: 10
+2025-09-06 17:29:36 | INFO | Max stall temperature range: 0.2 F
+2025-09-06 17:29:36 | INFO | STALL DETECTED at 2025-09-07T00:29:36.016770: Temp stable at 142.0°F over last 10 readings.
+2025-09-06 17:29:41 | INFO | Processed JSON message: {'timestamp': '2025-09-07T00:29:41.019162', 'temperature': 142.2}
+2025-09-06 17:29:41 | INFO | Rolling window size: 10
+2025-09-06 17:29:41 | INFO | Max stall temperature range: 0.2 F
+2025-09-06 17:29:41 | INFO | STALL DETECTED at 2025-09-07T00:29:41.019162: Temp stable at 142.2°F over last 10 readings.
+2025-09-06 17:29:46 | INFO | Processed JSON message: {'timestamp': '2025-09-07T00:29:46.021428', 'temperature': 142.0}
+2025-09-06 17:29:46 | INFO | Rolling window size: 10
+2025-09-06 17:29:46 | INFO | Max stall temperature range: 0.2 F
+2025-09-06 17:29:46 | INFO | STALL DETECTED at 2025-09-07T00:29:46.021428: Temp stable at 142.0°F over last 10 readings.
+2025-09-06 17:29:51 | INFO | Processed JSON message: {'timestamp': '2025-09-07T00:29:51.025861', 'temperature': 142.2}
+2025-09-06 17:29:51 | INFO | Rolling window size: 10
+2025-09-06 17:29:51 | INFO | Max stall temperature range: 0.2 F
+2025-09-06 17:29:51 | INFO | STALL DETECTED at 2025-09-07T00:29:51.025861: Temp stable at 142.2°F over last 10 readings.
+2025-09-06 17:29:56 | INFO | Processed JSON message: {'timestamp': '2025-09-07T00:29:56.028543', 'temperature': 142.0}
+2025-09-06 17:29:56 | INFO | Rolling window size: 10
+2025-09-06 17:29:56 | INFO | Max stall temperature range: 0.2 F
+2025-09-06 17:29:56 | INFO | STALL DETECTED at 2025-09-07T00:29:56.028543: Temp stable at 142.0°F over last 10 readings.
+2025-09-06 17:30:01 | INFO | Processed JSON message: {'timestamp': '2025-09-07T00:30:01.108106', 'temperature': 70.4}
+2025-09-06 17:30:01 | INFO | Rolling window size: 10
+2025-09-06 17:30:01 | INFO | Max stall temperature range: 0.2 F
+2025-09-06 17:30:06 | INFO | Processed JSON message: {'timestamp': '2025-09-07T00:30:06.110328', 'temperature': 70.8}
+2025-09-06 17:30:06 | INFO | Rolling window size: 10
+2025-09-06 17:30:06 | INFO | Max stall temperature range: 0.2 F
+2025-09-06 17:30:13 | INFO | Processed JSON message: {'timestamp': '2025-09-07T00:30:13.828241', 'temperature': 71.2}
+2025-09-06 17:30:13 | INFO | Rolling window size: 10
+2025-09-06 17:30:13 | INFO | Max stall temperature range: 0.2 F
+2025-09-06 17:30:18 | INFO | Processed JSON message: {'timestamp': '2025-09-07T00:30:18.829468', 'temperature': 71.6}
+2025-09-06 17:30:18 | INFO | Rolling window size: 10
+2025-09-06 17:30:18 | INFO | Max stall temperature range: 0.2 F
+2025-09-06 17:30:23 | INFO | Processed JSON message: {'timestamp': '2025-09-07T00:30:23.833436', 'temperature': 72.0}
+2025-09-06 17:30:23 | INFO | Rolling window size: 10
+2025-09-06 17:30:23 | INFO | Max stall temperature range: 0.2 F
+2025-09-06 17:30:28 | INFO | Processed JSON message: {'timestamp': '2025-09-07T00:30:28.835102', 'temperature': 72.4}
+2025-09-06 17:30:28 | INFO | Rolling window size: 10
+2025-09-06 17:30:28 | INFO | Max stall temperature range: 0.2 F
+2025-09-06 17:30:33 | INFO | Processed JSON message: {'timestamp': '2025-09-07T00:30:33.837023', 'temperature': 72.8}
+2025-09-06 17:30:33 | INFO | Rolling window size: 10
+2025-09-06 17:30:33 | INFO | Max stall temperature range: 0.2 F
+2025-09-06 17:30:38 | INFO | Processed JSON message: {'timestamp': '2025-09-07T00:30:38.838026', 'temperature': 73.2}
+2025-09-06 17:30:38 | INFO | Rolling window size: 10
+2025-09-06 17:30:38 | INFO | Max stall temperature range: 0.2 F
+2025-09-06 17:30:46 | INFO | Processed JSON message: {'timestamp': '2025-09-07T00:30:46.286708', 'temperature': 73.6}
+2025-09-06 17:30:46 | INFO | Rolling window size: 10
+2025-09-06 17:30:46 | INFO | Max stall temperature range: 0.2 F
+2025-09-06 17:30:51 | INFO | Processed JSON message: {'timestamp': '2025-09-07T00:30:51.290131', 'temperature': 74.0}
+2025-09-06 17:30:51 | INFO | Rolling window size: 10
+2025-09-06 17:30:51 | INFO | Max stall temperature range: 0.2 F
+2025-09-06 17:30:56 | INFO | Processed JSON message: {'timestamp': '2025-09-07T00:30:56.291362', 'temperature': 74.4}
+2025-09-06 17:30:56 | INFO | Rolling window size: 10
+2025-09-06 17:30:56 | INFO | Max stall temperature range: 0.2 F
+2025-09-06 17:31:01 | INFO | Processed JSON message: {'timestamp': '2025-09-07T00:31:01.292847', 'temperature': 74.8}
+2025-09-06 17:31:01 | INFO | Rolling window size: 10
+2025-09-06 17:31:01 | INFO | Max stall temperature range: 0.2 F
+2025-09-06 17:31:06 | INFO | Processed JSON message: {'timestamp': '2025-09-07T00:31:06.295019', 'temperature': 75.2}
+2025-09-06 17:31:06 | INFO | Rolling window size: 10
+2025-09-06 17:31:06 | INFO | Max stall temperature range: 0.2 F
+2025-09-06 17:31:11 | INFO | Processed JSON message: {'timestamp': '2025-09-07T00:31:11.296893', 'temperature': 75.6}
+2025-09-06 17:31:11 | INFO | Rolling window size: 10
+2025-09-06 17:31:11 | INFO | Max stall temperature range: 0.2 F
+2025-09-06 17:31:16 | INFO | Processed JSON message: {'timestamp': '2025-09-07T00:31:16.298308', 'temperature': 76.0}
+2025-09-06 17:31:16 | INFO | Rolling window size: 10
+2025-09-06 17:31:16 | INFO | Max stall temperature range: 0.2 F
+2025-09-06 17:31:24 | INFO | Processed JSON message: {'timestamp': '2025-09-07T00:31:24.516703', 'temperature': 76.4}
+2025-09-06 17:31:24 | INFO | Rolling window size: 10
+2025-09-06 17:31:24 | INFO | Max stall temperature range: 0.2 F
+2025-09-06 17:31:29 | INFO | Processed JSON message: {'timestamp': '2025-09-07T00:31:29.517796', 'temperature': 76.8}
+2025-09-06 17:31:29 | INFO | Rolling window size: 10
+2025-09-06 17:31:29 | INFO | Max stall temperature range: 0.2 F
+2025-09-06 17:31:34 | INFO | Processed JSON message: {'timestamp': '2025-09-07T00:31:34.522176', 'temperature': 77.2}
+2025-09-06 17:31:34 | INFO | Rolling window size: 10
+2025-09-06 17:31:34 | INFO | Max stall temperature range: 0.2 F
+2025-09-06 17:31:39 | INFO | Processed JSON message: {'timestamp': '2025-09-07T00:31:39.524263', 'temperature': 77.6}
+2025-09-06 17:31:39 | INFO | Rolling window size: 10
+2025-09-06 17:31:39 | INFO | Max stall temperature range: 0.2 F
+2025-09-06 17:31:44 | INFO | Processed JSON message: {'timestamp': '2025-09-07T00:31:44.525744', 'temperature': 78.0}
+2025-09-06 17:31:44 | INFO | Rolling window size: 10
+2025-09-06 17:31:44 | INFO | Max stall temperature range: 0.2 F
+2025-09-06 17:31:49 | INFO | Processed JSON message: {'timestamp': '2025-09-07T00:31:49.527777', 'temperature': 78.4}
+2025-09-06 17:31:49 | INFO | Rolling window size: 10
+2025-09-06 17:31:49 | INFO | Max stall temperature range: 0.2 F
