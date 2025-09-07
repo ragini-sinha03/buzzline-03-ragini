@@ -1,3 +1,32 @@
+# New CSV Kafka Producer and Consumer
+
+## csv_producer_ragini.py
+This unique Kafka producer sends custom CSV-style messages to the topic `ragini_csv_topic`. Each message consists of a `message` and an `author`, formatted as a CSV string, making it easy to test and demonstrate Kafka streaming with tabular data.
+
+**Example messages sent:**
+```
+Streaming data unlocks new possibilities.,Sam
+Real-time analytics drive smarter decisions.,Priya
+Kafka bridges the gap between systems.,Liam
+Python makes data engineering approachable.,Ragini
+```
+
+## csv_consumer_ragini.py
+This associated Kafka consumer listens to the same topic (`ragini_csv_topic`) and prints each received CSV-style message. It is designed for clarity and ease of use, making it ideal for learning and demonstration purposes.
+
+**How to run:**
+1. Start Kafka and Zookeeper services.
+2. Activate your Python virtual environment and install dependencies.
+3. Run the producer:
+   ```bash
+   python -m producers.csv_producer_ragini
+   ```
+4. Run the consumer:
+   ```bash
+   python -m consumers.csv_consumer_ragini
+   ```
+
+These scripts provide a simple, hands-on introduction to Kafka streaming with CSV-style data in Python.
 # New JSON Kafka Producer and Consumer
 
 ## json_producer_ragini.py
